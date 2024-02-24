@@ -1,3 +1,3 @@
 # tv
 
-https://punkinside.github.io/tv/inde.m3u
+https://punkinside.github.io/tv/index.m3u
